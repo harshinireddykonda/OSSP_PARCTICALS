@@ -1,0 +1,2 @@
+Hello from redirected standard output!
+This message is stored in output.txt
